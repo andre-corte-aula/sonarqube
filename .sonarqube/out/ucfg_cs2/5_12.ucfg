@@ -1,0 +1,28 @@
+
+hSonarQube.Poc.Web.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs (%"0*é
+0Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs (6É
+Æ
+Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs (.:
+%04Microsoft.Extensions.DependencyInjection.IMvcBuilder"œMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllersWithViews(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
+GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection¿
+¼
+Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs (7
+
+%1void"lSonarQube.Poc.IoC.BootStrapper.RegisterServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)*"" 
+SonarQube.Poc.IoC.BootStrapper*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+1*À
+1Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs	 (	"h
+Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs (	
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB
+SonarQube.Poc.Web.Startup

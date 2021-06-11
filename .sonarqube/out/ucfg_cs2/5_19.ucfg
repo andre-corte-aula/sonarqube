@@ -1,0 +1,47 @@
+
+BSonarQube.Poc.Web.Controllers.MembroAPIController.GetAllNotAsync()i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs/ /(+"2*˜
+
+0i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs1  2(•
+¢
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs1* 1(84
+%0.SonarQube.Poc.Domain.Interfaces.IMembroService"__id*y*w3
+1SonarQube.Poc.Web.Controllers.MembroAPIController"@
+_membroService.SonarQube.Poc.Domain.Interfaces.IMembroServiceöó
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs1* 1(A/
+%1)System.Collections.Generic.IEnumerable<T>"7SonarQube.Poc.Domain.Interfaces.IMembroService.Listar()*6
+4
+%0.SonarQube.Poc.Domain.Interfaces.IMembroService2Listar()›
+⁄
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs1  1(A4
+membros)System.Collections.Generic.IEnumerable<T>"__id*1
+/
+%1)System.Collections.Generic.IEnumerable<T>¬ø
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs2 2(-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult"2Microsoft.AspNetCore.Mvc.ControllerBase.Ok(object)*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*6
+4
+membros)System.Collections.Generic.IEnumerable<T>2
+Ok(object)"ú
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs2 2(/
+-
+%2'Microsoft.AspNetCore.Mvc.OkObjectResult*Ò
+1i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs3	 3(	"Ä
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs3 3(	
+implicit return*˜
+2i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs/- /(-Å
+
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs/ /(+
+%3"__entrypoint*
+0B53
+1SonarQube.Poc.Web.Controllers.MembroAPIController

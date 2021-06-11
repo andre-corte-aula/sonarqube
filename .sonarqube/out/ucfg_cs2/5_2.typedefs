@@ -1,0 +1,6 @@
+ƒ
+,SonarQube.Poc.Web.Controllers.HomeController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobjectˆ
+bHomeController(Microsoft.Extensions.Logging.ILogger<SonarQube.Poc.Web.Controllers.HomeController>)èSonarQube.Poc.Web.Controllers.HomeController.HomeController(Microsoft.Extensions.Logging.ILogger<SonarQube.Poc.Web.Controllers.HomeController>)?
+Index()4SonarQube.Poc.Web.Controllers.HomeController.Index()C
+	Privacy()6SonarQube.Poc.Web.Controllers.HomeController.Privacy()?
+Error()4SonarQube.Poc.Web.Controllers.HomeController.Error()

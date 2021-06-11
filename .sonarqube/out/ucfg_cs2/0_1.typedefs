@@ -1,3 +1,59 @@
-a
- SonarQube.Poc.Application.Class1object5
-Class1())SonarQube.Poc.Application.Class1.Class1()
+¿
+%SonarQube.Poc.Domain.Entidades.Membroobject:
+Membro().SonarQube.Poc.Domain.Entidades.Membro.Membro():
+Nome.get.SonarQube.Poc.Domain.Entidades.Membro.Nome.get:
+Nome.set.SonarQube.Poc.Domain.Entidades.Membro.Nome.set<
+	Idade.get/SonarQube.Poc.Domain.Entidades.Membro.Idade.get<
+	Idade.set/SonarQube.Poc.Domain.Entidades.Membro.Idade.set8
+Cpf.get-SonarQube.Poc.Domain.Entidades.Membro.Cpf.get8
+Cpf.set-SonarQube.Poc.Domain.Entidades.Membro.Cpf.set6
+Rg.get,SonarQube.Poc.Domain.Entidades.Membro.Rg.get6
+Rg.set,SonarQube.Poc.Domain.Entidades.Membro.Rg.setB
+DataNasc.get2SonarQube.Poc.Domain.Entidades.Membro.DataNasc.getB
+DataNasc.set2SonarQube.Poc.Domain.Entidades.Membro.DataNasc.set:
+Sexo.get.SonarQube.Poc.Domain.Entidades.Membro.Sexo.get:
+Sexo.set.SonarQube.Poc.Domain.Entidades.Membro.Sexo.set<
+	Signo.get/SonarQube.Poc.Domain.Entidades.Membro.Signo.get<
+	Signo.set/SonarQube.Poc.Domain.Entidades.Membro.Signo.set8
+Mae.get-SonarQube.Poc.Domain.Entidades.Membro.Mae.get8
+Mae.set-SonarQube.Poc.Domain.Entidades.Membro.Mae.set8
+Pai.get-SonarQube.Poc.Domain.Entidades.Membro.Pai.get8
+Pai.set-SonarQube.Poc.Domain.Entidades.Membro.Pai.set<
+	Email.get/SonarQube.Poc.Domain.Entidades.Membro.Email.get<
+	Email.set/SonarQube.Poc.Domain.Entidades.Membro.Email.set<
+	Senha.get/SonarQube.Poc.Domain.Entidades.Membro.Senha.get<
+	Senha.set/SonarQube.Poc.Domain.Entidades.Membro.Senha.set8
+Cep.get-SonarQube.Poc.Domain.Entidades.Membro.Cep.get8
+Cep.set-SonarQube.Poc.Domain.Entidades.Membro.Cep.setB
+Endereco.get2SonarQube.Poc.Domain.Entidades.Membro.Endereco.getB
+Endereco.set2SonarQube.Poc.Domain.Entidades.Membro.Endereco.set>
+
+Numero.get0SonarQube.Poc.Domain.Entidades.Membro.Numero.get>
+
+Numero.set0SonarQube.Poc.Domain.Entidades.Membro.Numero.set>
+
+Bairro.get0SonarQube.Poc.Domain.Entidades.Membro.Bairro.get>
+
+Bairro.set0SonarQube.Poc.Domain.Entidades.Membro.Bairro.set>
+
+Cidade.get0SonarQube.Poc.Domain.Entidades.Membro.Cidade.get>
+
+Cidade.set0SonarQube.Poc.Domain.Entidades.Membro.Cidade.set>
+
+Estado.get0SonarQube.Poc.Domain.Entidades.Membro.Estado.get>
+
+Estado.set0SonarQube.Poc.Domain.Entidades.Membro.Estado.setJ
+TelefoneFixo.get6SonarQube.Poc.Domain.Entidades.Membro.TelefoneFixo.getJ
+TelefoneFixo.set6SonarQube.Poc.Domain.Entidades.Membro.TelefoneFixo.set@
+Celular.get1SonarQube.Poc.Domain.Entidades.Membro.Celular.get@
+Celular.set1SonarQube.Poc.Domain.Entidades.Membro.Celular.set>
+
+Altura.get0SonarQube.Poc.Domain.Entidades.Membro.Altura.get>
+
+Altura.set0SonarQube.Poc.Domain.Entidades.Membro.Altura.set:
+Peso.get.SonarQube.Poc.Domain.Entidades.Membro.Peso.get:
+Peso.set.SonarQube.Poc.Domain.Entidades.Membro.Peso.setL
+TipoSanguineo.get7SonarQube.Poc.Domain.Entidades.Membro.TipoSanguineo.getL
+TipoSanguineo.set7SonarQube.Poc.Domain.Entidades.Membro.TipoSanguineo.set8
+Cor.get-SonarQube.Poc.Domain.Entidades.Membro.Cor.get8
+Cor.set-SonarQube.Poc.Domain.Entidades.Membro.Cor.set

@@ -1,0 +1,45 @@
+
+BSonarQube.Poc.Web.Controllers.MembroAPIController.Put(int, string)i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.csD D("1*Ò
+0i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.csF	 F(	"Ä
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.csF F(	
+implicit return*Î
+1i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.csD8 D(8ù
+ö
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.csD D(
+%0"__entrypoint*
+""*
+
+valuestring◊
+‘
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.csD! D()
+%1"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.FromBodyAttribute.FromBodyAttribute()*
+
+valuestring€
+ÿ
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.csC	 C(
+%2"
+__annotate*FD
+BMicrosoft.AspNetCore.Mvc.HttpPutAttribute.HttpPutAttribute(string)*
+
+valuestringù
+ö
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.csD  D(7
+valuestring"__annotation*
+
+%1*
+
+%2*
+0:	
+idint:
+valuestringB53
+1SonarQube.Poc.Web.Controllers.MembroAPIController

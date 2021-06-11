@@ -1,0 +1,31 @@
+
+lSonarQube.Poc.IoC.BootStrapper.RegisterServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)V
+LD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.IoC\BootStrapper.cs
+ 
+(+"0*ã
+0V
+LD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.IoC\BootStrapper.cs ( ¾
+»
+V
+LD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.IoC\BootStrapper.cs ( 
+
+%0void"fSonarQube.Poc.IoC.BootStrapper.Repository(Microsoft.Extensions.DependencyInjection.IServiceCollection)*"" 
+SonarQube.Poc.IoC.BootStrapper*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection¿
+¼
+V
+LD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.IoC\BootStrapper.cs (!
+
+%1void"gSonarQube.Poc.IoC.BootStrapper.Application(Microsoft.Extensions.DependencyInjection.IServiceCollection)*"" 
+SonarQube.Poc.IoC.BootStrapper*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+1*Ê
+1V
+LD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.IoC\BootStrapper.cs	 (	"m
+V
+LD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.IoC\BootStrapper.cs (	
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB"" 
+SonarQube.Poc.IoC.BootStrapper

@@ -1,8 +1,0 @@
-›
-%SonarQube.Poc.WebAPI.Pages.ErrorModel-Microsoft.AspNetCore.Mvc.RazorPages.PageModelobjectØ
-WErrorModel(Microsoft.Extensions.Logging.ILogger<SonarQube.Poc.WebAPI.Pages.ErrorModel>)}SonarQube.Poc.WebAPI.Pages.ErrorModel.ErrorModel(Microsoft.Extensions.Logging.ILogger<SonarQube.Poc.WebAPI.Pages.ErrorModel>)8
-OnGet()-SonarQube.Poc.WebAPI.Pages.ErrorModel.OnGet()D
-RequestId.get3SonarQube.Poc.WebAPI.Pages.ErrorModel.RequestId.getD
-RequestId.set3SonarQube.Poc.WebAPI.Pages.ErrorModel.RequestId.setL
-ShowRequestId.get7SonarQube.Poc.WebAPI.Pages.ErrorModel.ShowRequestId.getL
-ShowRequestId.set7SonarQube.Poc.WebAPI.Pages.ErrorModel.ShowRequestId.set

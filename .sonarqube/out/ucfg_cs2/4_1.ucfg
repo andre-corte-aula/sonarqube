@@ -1,9 +1,20 @@
 
-!SonarQube.Poc.IoC.Class1.Class1()P
-FD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.IoC\Class1.cs ("0*¾
-0P
-FD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.IoC\Class1.cs ("g
-P
-FD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.IoC\Class1.cs (
-implicit returnB
-SonarQube.Poc.IoC.Class1
++SonarQube.Poc.IoC.BootStrapper.Resolve<T>()V
+LD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.IoC\BootStrapper.cs ("0*û
+0V
+LD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.IoC\BootStrapper.cs ("¸
+µ
+V
+LD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.IoC\BootStrapper.cs ("
+%0T".SonarQube.Poc.IoC.BootStrapper.GetService<T>()*"" 
+SonarQube.Poc.IoC.BootStrapper"c
+V
+LD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.IoC\BootStrapper.cs (#	
+
+%0T*Ê
+1V
+LD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.IoC\BootStrapper.cs	 (	"m
+V
+LD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.IoC\BootStrapper.cs (	
+implicit returnB"" 
+SonarQube.Poc.IoC.BootStrapper

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>SonarQube.Poc.Repository</ProjectName>
+  <ProjectName>SonarQube.Poc.Utils</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>f0dc5fc9-22d3-40c1-ab93-cfb1bd7e3a9f</ProjectGuid>
-  <FullPath>D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Repository\SonarQube.Poc.Repository.csproj</FullPath>
+  <ProjectGuid>2c1cdc32-b2b2-4203-a2b0-b95e4052f961</ProjectGuid>
+  <FullPath>D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Utils\SonarQube.Poc.Utils.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
-  <AnalysisResults />
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="D:\work-git-aula\andre-corte\sonarqube\.sonarqube\conf\1\FilesToAnalyze.txt" />
+  </AnalysisResults>
   <AnalysisSettings>
-    <Property Name="sonar.cs.roslyn.reportFilePaths">D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Repository\bin\Debug\net5.0\SonarQube.Poc.Repository.dll.RoslynCA.json|D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Repository\bin\Debug\net5.0\SonarQube.Poc.Repository.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Utils\bin\Debug\net5.0\SonarQube.Poc.Utils.dll.RoslynCA.json|D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Utils\bin\Debug\net5.0\SonarQube.Poc.Utils.dll.RoslynCA.json</Property>
     <Property Name="sonar.cs.analyzer.projectOutPaths">D:\work-git-aula\andre-corte\sonarqube\.sonarqube\out\1</Property>
   </AnalysisSettings>
   <Configuration>Debug</Configuration>

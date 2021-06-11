@@ -1,0 +1,90 @@
+
+‡SonarQube.Poc.Web.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs! !("0*µ
+0Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs# #(#Ô
+Ñ
+Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs# #(#
+
+%0bool"vMicrosoft.Extensions.Hosting.HostEnvironmentEnvExtensions.IsDevelopment(Microsoft.Extensions.Hosting.IHostEnvironment)*=";
+9Microsoft.Extensions.Hosting.HostEnvironmentEnvExtensions*9
+7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
+1
+2*ö
+1Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs% %(/˜
+•
+Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs% %(/6
+%10Microsoft.AspNetCore.Builder.IApplicationBuilder"‰Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions.UseDeveloperExceptionPage(Microsoft.AspNetCore.Builder.IApplicationBuilder)*A"?
+=Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+3*ï
+2Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs) +(Ÿ
+œ
+Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs) )(66
+%20Microsoft.AspNetCore.Builder.IApplicationBuilder"…Microsoft.AspNetCore.Builder.ExceptionHandlerExtensions.UseExceptionHandler(Microsoft.AspNetCore.Builder.IApplicationBuilder, string)*;"9
+7Microsoft.AspNetCore.Builder.ExceptionHandlerExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+/Home/Errorï
+ì
+Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs+ +(6
+%30Microsoft.AspNetCore.Builder.IApplicationBuilder"lMicrosoft.AspNetCore.Builder.HstsBuilderExtensions.UseHsts(Microsoft.AspNetCore.Builder.IApplicationBuilder)*6"4
+2Microsoft.AspNetCore.Builder.HstsBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+3*ƒ
+3Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs- 9(‰
+†
+Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs- -(%6
+%40Microsoft.AspNetCore.Builder.IApplicationBuilder"Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions.UseHttpsRedirection(Microsoft.AspNetCore.Builder.IApplicationBuilder)*=";
+9Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderô
+ñ
+Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs. .( 6
+%50Microsoft.AspNetCore.Builder.IApplicationBuilder"rMicrosoft.AspNetCore.Builder.StaticFileExtensions.UseStaticFiles(Microsoft.AspNetCore.Builder.IApplicationBuilder)*5"3
+1Microsoft.AspNetCore.Builder.StaticFileExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderŸ
+œ
+Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs0 0(6
+%60Microsoft.AspNetCore.Builder.IApplicationBuilder"…Microsoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseRouting(Microsoft.AspNetCore.Builder.IApplicationBuilder)*L"J
+HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder‘
+Ž
+Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs2 2("6
+%70Microsoft.AspNetCore.Builder.IApplicationBuilder"Microsoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions.UseAuthorization(Microsoft.AspNetCore.Builder.IApplicationBuilder)*B"@
+>Microsoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderì
+é
+Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs4 9(6
+%80Microsoft.AspNetCore.Builder.IApplicationBuilder"ÊMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseEndpoints(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Routing.IEndpointRouteBuilder>)*L"J
+HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""*
+4*À
+4Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs:	 :(	"h
+Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Startup.cs: :(	
+implicit return:7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder:7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
+SonarQube.Poc.Web.Startup

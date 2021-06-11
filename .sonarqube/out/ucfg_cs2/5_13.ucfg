@@ -1,0 +1,34 @@
+
+uSonarQube.Poc.Web.Controllers.MembroAPIController.MembroAPIController(SonarQube.Poc.Domain.Interfaces.IMembroService)i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs (""3*Í
+1i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs	 (	u
+s
+
+%0void"8Microsoft.AspNetCore.Mvc.ControllerBase.ControllerBase()*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase*
+0*¶
+0i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs (*∞
+≠
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs (*w3
+1SonarQube.Poc.Web.Controllers.MembroAPIController"@
+_membroService.SonarQube.Poc.Domain.Interfaces.IMembroService"__id*A
+?
+membroService.SonarQube.Poc.Domain.Interfaces.IMembroService*
+2*Ò
+2i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs	 (	"Ä
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs (	
+implicit return*˜
+3i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs@ (@Å
+
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs ("
+%1"__entrypoint*
+1:?
+membroService.SonarQube.Poc.Domain.Interfaces.IMembroServiceB53
+1SonarQube.Poc.Web.Controllers.MembroAPIController

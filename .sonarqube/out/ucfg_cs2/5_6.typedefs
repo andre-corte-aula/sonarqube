@@ -1,0 +1,11 @@
+—
+1SonarQube.Poc.Web.Controllers.MembroAPIController'Microsoft.AspNetCore.Mvc.ControllerBaseobject¼
+CMembroAPIController(SonarQube.Poc.Domain.Interfaces.IMembroService)uSonarQube.Poc.Web.Controllers.MembroAPIController.MembroAPIController(SonarQube.Poc.Domain.Interfaces.IMembroService)@
+Get()7SonarQube.Poc.Web.Controllers.MembroAPIController.Get()H
+	GetAlll();SonarQube.Poc.Web.Controllers.MembroAPIController.GetAlll()P
+GetAllAsync()?SonarQube.Poc.Web.Controllers.MembroAPIController.GetAllAsync()V
+GetAllNotAsync()BSonarQube.Poc.Web.Controllers.MembroAPIController.GetAllNotAsync()F
+Get(int):SonarQube.Poc.Web.Controllers.MembroAPIController.Get(int)N
+Post(string)>SonarQube.Poc.Web.Controllers.MembroAPIController.Post(string)V
+Put(int, string)BSonarQube.Poc.Web.Controllers.MembroAPIController.Put(int, string)L
+Delete(int)=SonarQube.Poc.Web.Controllers.MembroAPIController.Delete(int)

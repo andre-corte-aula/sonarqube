@@ -1,0 +1,148 @@
+
+4SonarQube.Poc.Web.Controllers.HomeController.Error()d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs   (""6*Ò
+0d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs" "(I¡æ
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs" "(n-
+%0'SonarQube.Poc.Web.Models.ErrorViewModel"'SonarQube.Poc.Web.Models.ErrorViewModel‡
+›
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs" "(*
+
+%1void"8SonarQube.Poc.Web.Models.ErrorViewModel.ErrorViewModel()*/
+-
+%0'SonarQube.Poc.Web.Models.ErrorViewModel÷
+”
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs"9 "(I!
+%2System.Diagnostics.Activity"'System.Diagnostics.Activity.Current.get*"
+System.Diagnostics.Activity*
+1
+2*±
+2d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs"J "(M¿
+Ω
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs"K "(M
+%3string""System.Diagnostics.Activity.Id.get*#
+!
+%2System.Diagnostics.Activity*
+1*q
+1d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs#	 #(	*
+3
+4*Ò
+3d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs"Q "(l¸
+˘
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs"Q "(\+
+%7%Microsoft.AspNetCore.Http.HttpContext"7Microsoft.AspNetCore.Mvc.ControllerBase.HttpContext.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase·
+ﬁ
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs"Q "(l
+%8string"9Microsoft.AspNetCore.Http.HttpContext.TraceIdentifier.get*-
++
+%7%Microsoft.AspNetCore.Http.HttpContextç
+ä
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs"Q "(l
+%6string"__id*
+
+%8stringç
+ä
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs"Q "(l
+%4string"__id*
+
+%6string*
+4*¸
+4d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs" "(lÔ
+Ï
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs"- "(l
+%9string"5SonarQube.Poc.Web.Models.ErrorViewModel.RequestId.set*/
+-
+%0'SonarQube.Poc.Web.Models.ErrorViewModel*
+
+%4stringã
+à
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs" "(o
+%10void"$sonarqube.poc.web/views/shared/error*
+
+%11*/
+-
+%0'SonarQube.Poc.Web.Models.ErrorViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectâ
+Ü
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs" "(o
+%12void""sonarqube.poc.web/views/_viewstart*
+
+%13*/
+-
+%0'SonarQube.Poc.Web.Models.ErrorViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectç
+ä
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs" "(o
+%14void"&sonarqube.poc.web/views/shared/_layout*
+
+%15*/
+-
+%0'SonarQube.Poc.Web.Models.ErrorViewModel*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject"u
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs" "(p
+
+%14void*Ê
+5d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs#	 #(	"{
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs# #(	
+implicit return*Ì
+6d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs $  ($}
+{
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs   ("
+%16"__entrypoint*
+0B0.
+,SonarQube.Poc.Web.Controllers.HomeController

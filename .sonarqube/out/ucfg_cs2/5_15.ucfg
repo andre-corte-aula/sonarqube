@@ -1,0 +1,31 @@
+
+5SonarQube.Poc.Web.Program.CreateHostBuilder(string[])Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Program.cs# (4"0*ß
+0Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Program.cs (Ñ
+Å
+Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Program.cs (+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
+!Microsoft.Extensions.Hosting.Host*
+
+argsstring[]æ
+ª
+Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Program.cs (/
+%1)Microsoft.Extensions.Hosting.IHostBuilder"∫Microsoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
+9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder*
+"""Ü
+Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Program.cs (1
+/
+%1)Microsoft.Extensions.Hosting.IHostBuilder*¿
+1Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Program.cs ("h
+Q
+GD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Program.cs (
+implicit return:
+argsstring[]B"
+SonarQube.Poc.Web.Program

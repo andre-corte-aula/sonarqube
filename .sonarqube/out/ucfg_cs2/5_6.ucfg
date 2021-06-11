@@ -1,0 +1,44 @@
+
+ÅSonarQube.Poc.Web.Controllers.MembroController.MembroController(Microsoft.Extensions.Logging.ILogger<SonarQube.Poc.Web.Controllers.MembroController>, SonarQube.Poc.Domain.Interfaces.IMembroService)f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs ("3*Û
+1f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs	 (	i
+g
+
+%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
+#Microsoft.AspNetCore.Mvc.Controller*
+0*Æ
+0f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs (*¦
+£
+f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs (r0
+.SonarQube.Poc.Web.Controllers.MembroController">
+_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>ª
+§
+f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs (*t0
+.SonarQube.Poc.Web.Controllers.MembroController"@
+_membroService.SonarQube.Poc.Domain.Interfaces.IMembroService"__id*A
+?
+membroService.SonarQube.Poc.Domain.Interfaces.IMembroService*
+2*ê
+2f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs	 (	"}
+f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs (	
+implicit return*³
+3f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs_ (_À
+½
+f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs (
+%1"__entrypoint*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+1:=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>:?
+membroService.SonarQube.Poc.Domain.Interfaces.IMembroServiceB20
+.SonarQube.Poc.Web.Controllers.MembroController

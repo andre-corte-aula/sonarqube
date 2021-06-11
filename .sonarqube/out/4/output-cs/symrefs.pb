@@ -1,4 +1,22 @@
-T
-FD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.IoC\Class1.cs
+ö
+LD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.IoC\BootStrapper.cs
 
- 
+ $
+
+
+ + 
+
+
+? G   
+!! & 
+&& ' 
+# $ . /
+
+ "
+ ! ." 3
+  "
+  !  
+
+ 
+!!: B## 
+&&; C(( 

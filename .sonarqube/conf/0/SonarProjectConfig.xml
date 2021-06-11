@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
   <AnalysisConfigPath>D:\work-git-aula\andre-corte\sonarqube\.sonarqube\conf\SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
-  <ProjectPath>D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Application\SonarQube.Poc.Application.csproj</ProjectPath>
+  <ProjectPath>D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Domain\SonarQube.Poc.Domain.csproj</ProjectPath>
   <FilesToAnalyzePath>D:\work-git-aula\andre-corte\sonarqube\.sonarqube\conf\0\FilesToAnalyze.txt</FilesToAnalyzePath>
   <OutPath>D:\work-git-aula\andre-corte\sonarqube\.sonarqube\out\0</OutPath>
   <ProjectType>Product</ProjectType>

@@ -1,0 +1,4 @@
+­
+.SonarQube.Poc.Web.Controllers.MembroController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobjectá
+–MembroController(Microsoft.Extensions.Logging.ILogger<SonarQube.Poc.Web.Controllers.MembroController>, SonarQube.Poc.Domain.Interfaces.IMembroService)ÅSonarQube.Poc.Web.Controllers.MembroController.MembroController(Microsoft.Extensions.Logging.ILogger<SonarQube.Poc.Web.Controllers.MembroController>, SonarQube.Poc.Domain.Interfaces.IMembroService)A
+Index()6SonarQube.Poc.Web.Controllers.MembroController.Index()

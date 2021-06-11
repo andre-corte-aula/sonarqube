@@ -1,0 +1,43 @@
+
+>SonarQube.Poc.Web.Controllers.MembroAPIController.Post(string)i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs> >("1*ñ
+0i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs@	 @(	"€
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs@ @(	
+implicit return*ß
+1i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs>1 >(1•
+’
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs> >(
+%0"__entrypoint*
+
+valuestring×
+Ô
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs> >("
+%1"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.FromBodyAttribute.FromBodyAttribute()*
+
+valuestring×
+Ô
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs=	 =(
+%2"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*
+
+valuestring
+š
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs> >(0
+valuestring"__annotation*
+
+%1*
+
+%2*
+0:
+valuestringB53
+1SonarQube.Poc.Web.Controllers.MembroAPIController

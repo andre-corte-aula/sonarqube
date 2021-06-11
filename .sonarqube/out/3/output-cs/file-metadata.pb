@@ -1,9 +1,4 @@
-y
-nD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.csutf-8y
-nD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.csutf-8{
-pD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.csutf-8Ç
-wD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.csutf-8ï
-âD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.csutf-8Ä
-uD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.csutf-8~
-sD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.csutf-8å
-ÄD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\obj\Debug\net5.0\SonarQube.Poc.WebAPI.RazorTargetAssemblyInfo.csutf-8
+g
+^D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Application\Services\MembroService.csutf-8ê
+ÑD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Application\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8ä
+D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Application\obj\Debug\net5.0\SonarQube.Poc.Application.AssemblyInfo.csutf-8

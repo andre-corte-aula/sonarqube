@@ -1,0 +1,7 @@
+õ
+SonarQube.Poc.Web.Startupobject’
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)TSonarQube.Poc.Web.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)º
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)hSonarQube.Poc.Web.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)ù
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)‡SonarQube.Poc.Web.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)@
+Configuration.get+SonarQube.Poc.Web.Startup.Configuration.get@
+Configuration.set+SonarQube.Poc.Web.Startup.Configuration.set

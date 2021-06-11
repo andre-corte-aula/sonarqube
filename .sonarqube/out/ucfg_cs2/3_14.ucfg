@@ -1,67 +1,0 @@
-
--SonarQube.Poc.WebAPI.Pages.ErrorModel.OnGet()_
-UD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Pages\Error.cshtml.cs ("0*À
-0_
-UD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Pages\Error.cshtml.cs ((Ñ
-Î
-_
-UD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Pages\Error.cshtml.cs ((!
-%0System.Diagnostics.Activity"'System.Diagnostics.Activity.Current.get*"
-System.Diagnostics.Activity*
-1
-2*§
-2_
-UD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Pages\Error.cshtml.cs) (,»
-¸
-_
-UD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Pages\Error.cshtml.cs* (,
-%1string""System.Diagnostics.Activity.Id.get*#
-!
-%0System.Diagnostics.Activity*
-1*l
-1_
-UD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Pages\Error.cshtml.cs	 (	*
-3
-4*ä
-3_
-UD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Pages\Error.cshtml.cs0 (Kƒ
-€
-_
-UD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Pages\Error.cshtml.cs0 (;+
-%5%Microsoft.AspNetCore.Http.HttpContext"=Microsoft.AspNetCore.Mvc.RazorPages.PageModel.HttpContext.get*1/
--Microsoft.AspNetCore.Mvc.RazorPages.PageModelÜ
-Ù
-_
-UD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Pages\Error.cshtml.cs0 (K
-%6string"9Microsoft.AspNetCore.Http.HttpContext.TraceIdentifier.get*-
-+
-%5%Microsoft.AspNetCore.Http.HttpContextˆ
-…
-_
-UD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Pages\Error.cshtml.cs0 (K
-%4string"__id*
-
-%6stringˆ
-…
-_
-UD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Pages\Error.cshtml.cs0 (K
-%2string"__id*
-
-%4string*
-4*Î
-4_
-UD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Pages\Error.cshtml.cs (Kâ
-ß
-_
-UD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Pages\Error.cshtml.cs (K
-%7string"3SonarQube.Poc.WebAPI.Pages.ErrorModel.RequestId.set*)'
-%SonarQube.Poc.WebAPI.Pages.ErrorModel*
-
-%2string*
-5*Ü
-5_
-UD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Pages\Error.cshtml.cs	 (	"v
-_
-UD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Pages\Error.cshtml.cs (	
-implicit returnB)'
-%SonarQube.Poc.WebAPI.Pages.ErrorModel

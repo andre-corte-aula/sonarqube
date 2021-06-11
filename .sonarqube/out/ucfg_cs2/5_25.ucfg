@@ -1,0 +1,46 @@
+
+6SonarQube.Poc.Web.Controllers.MembroController.Index()f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs (""2*Ö
+
+0f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs  (Ÿ
+œ
+f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs* (84
+%0.SonarQube.Poc.Domain.Interfaces.IMembroService"__id*v*t0
+.SonarQube.Poc.Web.Controllers.MembroController"@
+_membroService.SonarQube.Poc.Domain.Interfaces.IMembroService—”
+f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs* (A/
+%1)System.Collections.Generic.IEnumerable<T>"7SonarQube.Poc.Domain.Interfaces.IMembroService.Listar()*6
+4
+%0.SonarQube.Poc.Domain.Interfaces.IMembroService2Listar()Ú
+×
+f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs  (A4
+membros)System.Collections.Generic.IEnumerable<T>"__id*1
+/
+%1)System.Collections.Generic.IEnumerable<T>·´
+f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs ( )
+%2#Microsoft.AspNetCore.Mvc.ViewResult"0Microsoft.AspNetCore.Mvc.Controller.View(object)*'%
+#Microsoft.AspNetCore.Mvc.Controller*6
+4
+membros)System.Collections.Generic.IEnumerable<T>2View(object)"•
+f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs (!+
+)
+%2#Microsoft.AspNetCore.Mvc.ViewResult*ê
+1f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs	 (	"}
+f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs (	
+implicit return*ð
+2f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs$ ($~
+|
+f
+\D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroController.cs ("
+%3"__entrypoint*
+0B20
+.SonarQube.Poc.Web.Controllers.MembroController

@@ -1,0 +1,47 @@
+
+;SonarQube.Poc.Web.Controllers.MembroAPIController.GetAlll()i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs! !($"2*ı
+
+0i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs#  $(#•
+¢
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs#* #(84
+%0.SonarQube.Poc.Domain.Interfaces.IMembroService"__id*y*w3
+1SonarQube.Poc.Web.Controllers.MembroAPIController"@
+_membroService.SonarQube.Poc.Domain.Interfaces.IMembroServiceöó
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs#* #(A/
+%1)System.Collections.Generic.IEnumerable<T>"7SonarQube.Poc.Domain.Interfaces.IMembroService.Listar()*6
+4
+%0.SonarQube.Poc.Domain.Interfaces.IMembroService2Listar()›
+⁄
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs#  #(A4
+membros)System.Collections.Generic.IEnumerable<T>"__id*1
+/
+%1)System.Collections.Generic.IEnumerable<T>≈
+¬
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs$ $(#(
+%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*6
+4
+membros)System.Collections.Generic.IEnumerable<T>"ó
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs$ $($*
+(
+%2"System.Collections.Generic.List<T>*Ò
+1i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs%	 %(	"Ä
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs% %(	
+implicit return*˜
+2i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs!& !(&Å
+
+i
+_D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\MembroAPIController.cs! !($
+%3"__entrypoint*
+0B53
+1SonarQube.Poc.Web.Controllers.MembroAPIController

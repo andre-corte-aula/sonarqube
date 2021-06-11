@@ -1,14 +1,0 @@
-ñ
--SonarQube.Poc.WebAPI.Pages.Pages__ViewImports0Microsoft.AspNetCore.Mvc.Razor.RazorPage<TModel>(Microsoft.AspNetCore.Mvc.Razor.RazorPage,Microsoft.AspNetCore.Mvc.Razor.RazorPageBaseobjectN
-ExecuteAsync()<SonarQube.Poc.WebAPI.Pages.Pages__ViewImports.ExecuteAsync()Z
-Pages__ViewImports()BSonarQube.Poc.WebAPI.Pages.Pages__ViewImports.Pages__ViewImports()h
-ModelExpressionProvider.getISonarQube.Poc.WebAPI.Pages.Pages__ViewImports.ModelExpressionProvider.geth
-ModelExpressionProvider.setISonarQube.Poc.WebAPI.Pages.Pages__ViewImports.ModelExpressionProvider.set@
-Url.get5SonarQube.Poc.WebAPI.Pages.Pages__ViewImports.Url.get@
-Url.set5SonarQube.Poc.WebAPI.Pages.Pages__ViewImports.Url.setL
-Component.get;SonarQube.Poc.WebAPI.Pages.Pages__ViewImports.Component.getL
-Component.set;SonarQube.Poc.WebAPI.Pages.Pages__ViewImports.Component.setB
-Json.get6SonarQube.Poc.WebAPI.Pages.Pages__ViewImports.Json.getB
-Json.set6SonarQube.Poc.WebAPI.Pages.Pages__ViewImports.Json.setB
-Html.get6SonarQube.Poc.WebAPI.Pages.Pages__ViewImports.Html.getB
-Html.set6SonarQube.Poc.WebAPI.Pages.Pages__ViewImports.Html.set

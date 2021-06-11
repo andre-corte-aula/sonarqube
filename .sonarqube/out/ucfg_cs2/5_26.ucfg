@@ -1,0 +1,84 @@
+
+4SonarQube.Poc.Web.Controllers.HomeController.Index()d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs (""2*›
+
+0d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs (å
+â
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs (
+
+%0void""sonarqube.poc.web/views/home/index*
+
+%1*
+	{unknown}*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectå
+â
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs (
+
+%2void""sonarqube.poc.web/views/_viewstart*
+
+%3*
+	{unknown}*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjecté
+æ
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs (
+
+%4void"&sonarqube.poc.web/views/shared/_layout*
+
+%5*
+	{unknown}*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject"t
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs (
+
+
+%4void*æ
+1d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs	 (	"{
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs (	
+implicit return*ì
+2d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs$ ($|
+z
+d
+ZD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Web\Controllers\HomeController.cs ("
+%6"__entrypoint*
+0B0.
+,SonarQube.Poc.Web.Controllers.HomeController

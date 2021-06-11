@@ -1,33 +1,0 @@
-
-+SonarQube.Poc.WebAPI.Program.Main(string[])T
-JD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Program.cs ("0*
-0T
-JD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Program.cs ("ú
-÷
-T
-JD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Program.cs (#/
-%0)Microsoft.Extensions.Hosting.IHostBuilder"8SonarQube.Poc.WebAPI.Program.CreateHostBuilder(string[])* "
-SonarQube.Poc.WebAPI.Program*
-
-argsstring[]òï
-T
-JD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Program.cs (+(
-%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*1
-/
-%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()½
-º
-T
-JD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Program.cs (1
-
-%2void"fMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(Microsoft.Extensions.Hosting.IHost)*B"@
->Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions**
-(
-%1"Microsoft.Extensions.Hosting.IHost*
-1*Æ
-1T
-JD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Program.cs	 (	"k
-T
-JD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\Program.cs (	
-implicit return:
-argsstring[]B "
-SonarQube.Poc.WebAPI.Program
