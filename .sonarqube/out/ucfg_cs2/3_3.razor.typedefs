@@ -1,0 +1,19 @@
+²
+
+(SonarQube.Poc.WebAPI.Pages.Pages_Privacy(Microsoft.AspNetCore.Mvc.RazorPages.Page,Microsoft.AspNetCore.Mvc.RazorPages.PageBase,Microsoft.AspNetCore.Mvc.Razor.RazorPageBaseobjectI
+ExecuteAsync()7SonarQube.Poc.WebAPI.Pages.Pages_Privacy.ExecuteAsync()K
+Pages_Privacy()8SonarQube.Poc.WebAPI.Pages.Pages_Privacy.Pages_Privacy()c
+ModelExpressionProvider.getDSonarQube.Poc.WebAPI.Pages.Pages_Privacy.ModelExpressionProvider.getc
+ModelExpressionProvider.setDSonarQube.Poc.WebAPI.Pages.Pages_Privacy.ModelExpressionProvider.set;
+Url.get0SonarQube.Poc.WebAPI.Pages.Pages_Privacy.Url.get;
+Url.set0SonarQube.Poc.WebAPI.Pages.Pages_Privacy.Url.setG
+Component.get6SonarQube.Poc.WebAPI.Pages.Pages_Privacy.Component.getG
+Component.set6SonarQube.Poc.WebAPI.Pages.Pages_Privacy.Component.set=
+Json.get1SonarQube.Poc.WebAPI.Pages.Pages_Privacy.Json.get=
+Json.set1SonarQube.Poc.WebAPI.Pages.Pages_Privacy.Json.set=
+Html.get1SonarQube.Poc.WebAPI.Pages.Pages_Privacy.Html.get=
+Html.set1SonarQube.Poc.WebAPI.Pages.Pages_Privacy.Html.setE
+ViewData.get5SonarQube.Poc.WebAPI.Pages.Pages_Privacy.ViewData.getE
+ViewData.set5SonarQube.Poc.WebAPI.Pages.Pages_Privacy.ViewData.set?
+	Model.get2SonarQube.Poc.WebAPI.Pages.Pages_Privacy.Model.get?
+	Model.set2SonarQube.Poc.WebAPI.Pages.Pages_Privacy.Model.set

@@ -1,0 +1,7 @@
+organization=andre-corte-aula
+projectKey=andre-corte-aula_sonarqube
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.20946
+dashboardUrl=https://sonarcloud.io/dashboard?id=andre-corte-aula_sonarqube
+ceTaskId=AXn7T5pY93_RJCzp2Snh
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXn7T5pY93_RJCzp2Snh

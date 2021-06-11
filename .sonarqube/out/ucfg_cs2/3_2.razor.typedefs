@@ -1,0 +1,19 @@
+Œ
+
+&SonarQube.Poc.WebAPI.Pages.Pages_Index(Microsoft.AspNetCore.Mvc.RazorPages.Page,Microsoft.AspNetCore.Mvc.RazorPages.PageBase,Microsoft.AspNetCore.Mvc.Razor.RazorPageBaseobjectG
+ExecuteAsync()5SonarQube.Poc.WebAPI.Pages.Pages_Index.ExecuteAsync()E
+Pages_Index()4SonarQube.Poc.WebAPI.Pages.Pages_Index.Pages_Index()a
+ModelExpressionProvider.getBSonarQube.Poc.WebAPI.Pages.Pages_Index.ModelExpressionProvider.geta
+ModelExpressionProvider.setBSonarQube.Poc.WebAPI.Pages.Pages_Index.ModelExpressionProvider.set9
+Url.get.SonarQube.Poc.WebAPI.Pages.Pages_Index.Url.get9
+Url.set.SonarQube.Poc.WebAPI.Pages.Pages_Index.Url.setE
+Component.get4SonarQube.Poc.WebAPI.Pages.Pages_Index.Component.getE
+Component.set4SonarQube.Poc.WebAPI.Pages.Pages_Index.Component.set;
+Json.get/SonarQube.Poc.WebAPI.Pages.Pages_Index.Json.get;
+Json.set/SonarQube.Poc.WebAPI.Pages.Pages_Index.Json.set;
+Html.get/SonarQube.Poc.WebAPI.Pages.Pages_Index.Html.get;
+Html.set/SonarQube.Poc.WebAPI.Pages.Pages_Index.Html.setC
+ViewData.get3SonarQube.Poc.WebAPI.Pages.Pages_Index.ViewData.getC
+ViewData.set3SonarQube.Poc.WebAPI.Pages.Pages_Index.ViewData.set=
+	Model.get0SonarQube.Poc.WebAPI.Pages.Pages_Index.Model.get=
+	Model.set0SonarQube.Poc.WebAPI.Pages.Pages_Index.Model.set

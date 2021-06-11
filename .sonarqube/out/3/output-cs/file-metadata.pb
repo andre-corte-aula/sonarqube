@@ -1,0 +1,9 @@
+y
+nD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.csutf-8y
+nD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.csutf-8{
+pD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.csutf-8‚
+wD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.csutf-8•
+‰D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.csutf-8€
+uD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.csutf-8~
+sD:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.csutf-8Œ
+€D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.WebAPI\obj\Debug\net5.0\SonarQube.Poc.WebAPI.RazorTargetAssemblyInfo.csutf-8

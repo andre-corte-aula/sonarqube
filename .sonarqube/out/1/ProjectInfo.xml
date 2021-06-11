@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>SonarQube.Poc.Repository</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>f0dc5fc9-22d3-40c1-ab93-cfb1bd7e3a9f</ProjectGuid>
+  <FullPath>D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Repository\SonarQube.Poc.Repository.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults />
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Repository\bin\Debug\net5.0\SonarQube.Poc.Repository.dll.RoslynCA.json|D:\work-git-aula\andre-corte\sonarqube\src\SonarQube.Poc.Repository\bin\Debug\net5.0\SonarQube.Poc.Repository.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">D:\work-git-aula\andre-corte\sonarqube\.sonarqube\out\1</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net5.0</TargetFramework>
+</ProjectInfo>
